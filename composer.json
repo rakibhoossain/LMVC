@@ -1,0 +1,12 @@
+{
+    "name": "rakibhoossain/lmvc",
+    "description": "PHP MVC Framework",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rakib Hossain",
+            "email": "rakibhoossain@gmail.com"
+        }
+    ],
+    "require": {}
+}
